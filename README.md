@@ -7,3 +7,6 @@ For setup instructions please see the [fabric wiki page](https://fabricmc.net/wi
 ## License
 
 This mod is available under the Unlicense. Feel free to learn from it and incorporate it in your own projects.
+
+# Forked from Origins+
+because I am lazy
